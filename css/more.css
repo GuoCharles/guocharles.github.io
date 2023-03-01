@@ -1,0 +1,6 @@
+.timeline > li .timeline-image:hover {
+    border: 7px solid #b4b4b4;
+    /* border: 7px solid #b4b4b4; */
+    /* border: 7px solid #fec810; */
+    cursor: pointer;
+  }
